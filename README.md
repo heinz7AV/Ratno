@@ -1,5 +1,5 @@
 # Ratno
-Ratno is a free, open source project and detects file change.
+Ratno is a File Discrepancy Detector that is NOT Opensource
 
 This project has since been removed from Github and is now being developed again. We have decided to make this project open source either once the Beta has reached it's end or when we are comfortable giving a stable version. Please note we may, unfortunately, never make Ratno open source.
 
